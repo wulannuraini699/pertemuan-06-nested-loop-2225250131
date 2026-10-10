@@ -44,7 +44,7 @@ Tabel Hasil Pengujian Latihan 4
 | `3` | `Banyak pasangan = 3` | `Banyak pasangan = 3` | Sesuai |
 | `5` | `Banyak pasangan = 10` | `Banyak pasangan = 10` | Sesuai |
 
-Tabel Hasil Pengujian Tugas 3 (`tugas/tabel_perkalian_dan_statistik.py`)
+Tabel Hasil Pengujian Tugas 
 | Input ($n$) | Hasil Diharapkan | Keluaran Aktual | Status |
 | :---: | :--- | :--- | :---: |
 | `1` | **Tabel:**<br>`   1 \| Total Baris 1: 1`<br><br>**Statistik:**<br>Total seluruh hasil perkalian : `1`<br>Banyak hasil perkalian genap  : `0` | **Tabel:**<br>`   1 \| Total Baris 1: 1`<br><br>**Statistik:**<br>Total seluruh hasil perkalian : `1`<br>Banyak hasil perkalian genap  : `0` | Sesuai |
